@@ -1,1 +1,1 @@
-I build AI tools and teach teams to think with them.
+I design AI systems that still work when the inputs get ugly.
